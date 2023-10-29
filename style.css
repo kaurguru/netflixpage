@@ -252,3 +252,12 @@ form h1 {
       font-size: 2rem;
     }
   }
+@media(max-width:500px){
+    .email-sec div{width: 24rem;
+   padding: .5rem; 
+    }
+  .email-sec .submit1{
+     width:10rem;
+     height: 3rem;
+   }
+  }
